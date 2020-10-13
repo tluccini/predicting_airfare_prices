@@ -135,7 +135,6 @@ Building out a way to evaluate multiple models where we can evaluate them object
 - Looking into our results inference will be provided as to our findings to determine what drives model's best performance
 - Here is a visualization of one of the routes:
 
-![Airplane](https://github.com/tluccini/predicting_airfare_prices/blob/main/visualizations/Atlanta%2C%20GA%20-%20Austin%2C%20TX_train_1.png) 
 <img src='./visualizations/DallasTXHoustonTX_train_1.png'>
 
 - Each model will be plotted and all relevant information will be saved into a dicitonary
