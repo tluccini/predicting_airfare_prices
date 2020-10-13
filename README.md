@@ -1,5 +1,5 @@
 # Forecasting Airfare Prices
-https://i.pinimg.com/564x/38/b1/6f/38b16f84e521773ba25c7e466c76e27d.jpg
+![](https://i.pinimg.com/564x/38/b1/6f/38b16f84e521773ba25c7e466c76e27d.jpg)  
 **01** [Problem Statement](#01-Problem-Statement)  
 **02** [Data Collection and Cleaning](#02-Data-Collection-and-Cleaning)  
 **03** [EDA & Pre-Processing / Feature Engineering](#03-EDA-and-Pre-Processing-/-Feature-Engineering)  
