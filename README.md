@@ -9,20 +9,12 @@
 ## Project Map
  - [README]('./README.md')
  - [Presentation Deck]('./presentationdeck_predictingairfareprices.pdf')
- - [data]
-     - [analytics]
-     - [clean]
-     - [model]
-         - [combined_data]
-         - [test_data]
-         - [train data]
-     - [raw]
- - [visualizations]('./visualizations/')
- - [01_Summary]
- - [02_Data Collection]
- - [03 EDA & Pre-processing]
- - [04 Modeling / Feature Selection & Conclusion]
-
+ - [01_Summary]('https://github.com/tluccini/predicting_airfare_prices/blob/main/01_summary.ipynb')
+ - [02_Data Collection]('https://github.com/tluccini/predicting_airfare_prices/blob/main/02_datacollection.ipynb')
+ - [03 EDA & Pre-processing]('https://github.com/tluccini/predicting_airfare_prices/blob/main/03_eda_preprocess.ipynb')
+ - [04 Modeling / Feature Selection & Conclusion]('https://github.com/tluccini/predicting_airfare_prices/blob/main/04_model_featselect.ipynb')
+ - [visualizations]('https://github.com/tluccini/predicting_airfare_prices/tree/main/visualizations')
+ - [data]('https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing') -- (data is currently restricted.  Please reach out to tonylucci@gmail.com for permissions.)
 
 | variable| Description |
 | :--- | :---- |
