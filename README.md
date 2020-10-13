@@ -1,5 +1,5 @@
 # Forecasting Airfare Prices
-![](https://i.pinimg.com/564x/38/b1/6f/38b16f84e521773ba25c7e466c76e27d.jpg)  
+![Airplane](https://i.pinimg.com/564x/38/b1/6f/38b16f84e521773ba25c7e466c76e27d.jpg)  
 **01** [Problem Statement](#01-Problem-Statement)  
 **02** [Data Collection and Cleaning](#02-Data-Collection-and-Cleaning)  
 **03** [EDA & Pre-Processing / Feature Engineering](#03-EDA-and-Pre-Processing-/-Feature-Engineering)  
@@ -135,7 +135,8 @@ Building out a way to evaluate multiple models where we can evaluate them object
 - Looking into our results inference will be provided as to our findings to determine what drives model's best performance
 - Here is a visualization of one of the routes:
 
-<img src='./Keeping_Visualizations/DallasTXHoustonTX_train_1.png'>
+![Airplane](https://github.com/tluccini/predicting_airfare_prices/blob/main/visualizations/Atlanta%2C%20GA%20-%20Austin%2C%20TX_train_1.png) 
+<img src='./visualizations/DallasTXHoustonTX_train_1.png'>
 
 - Each model will be plotted and all relevant information will be saved into a dicitonary
 - Our All Routes Dictionary will include for each route
@@ -148,7 +149,7 @@ Building out a way to evaluate multiple models where we can evaluate them object
     - Final Model
     - Final Features
 
-<img src='./Keeping_Visualizations/Atlanta, GA - Austin, TX_unseen_final_21.png'>
+<img src='./visualizations/Atlanta, GA - Austin, TX_unseen_final_21.png'>
 
 - For additional detail regarding evaluation and conceptul understanding you will encounter much greater detail within notebook 03 & 04
 ---------------------------------------------------------------------------------------------------------------------------------------
