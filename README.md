@@ -7,15 +7,16 @@
 **05** [Evaluation and Conceptual Understanding](#05-Evaluation-and-Conceptual-Understanding)  
 **06** [Conclusion and Recommendations](#06-Conclusion-and-Recommendations)
 
-## Project Map
--[README](https://github.com/tluccini/predicting_airfare_prices/blob/main/README.md)  
--[Presentation Deck](https://github.com/tluccini/predicting_airfare_prices/blob/main/presentationdeck_predictingairfareprices.pdf)  
--[1 Summary](https://github.com/tluccini/predicting_airfare_prices/blob/main/01_summary.ipynb)  
--[2 Data Collection](https://github.com/tluccini/predicting_airfare_prices/blob/main/02_datacollection.ipynb)  
--[3 EDA & Pre-processing](https://github.com/tluccini/predicting_airfare_prices/blob/main/03_eda_preprocess.ipynb)  
--[4 Modeling / Feature Selection & Conclusion](https://github.com/tluccini/predicting_airfare_prices/blob/main/04_model_featselect.ipynb)  
--[visualizations](https://github.com/tluccini/predicting_airfare_prices/tree/main/visualizations)  
--[data](https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing) (for data access reach out to tonylucci@gmail.com)  
+| **PROJECT MAP** |
+| - |
+| [README](https://github.com/tluccini/predicting_airfare_prices/blob/main/README.md) | 
+| [Presentation Deck](https://github.com/tluccini/predicting_airfare_prices/blob/main/presentationdeck_predictingairfareprices.pdf) | 
+| [1 Summary](https://github.com/tluccini/predicting_airfare_prices/blob/main/01_summary.ipynb) | 
+| [2 Data Collection](https://github.com/tluccini/predicting_airfare_prices/blob/main/02_datacollection.ipynb) | 
+| [3 EDA & Pre-processing](https://github.com/tluccini/predicting_airfare_prices/blob/main/03_eda_preprocess.ipynb) | 
+| [4 Modeling / Feature Selection & Conclusion](https://github.com/tluccini/predicting_airfare_prices/blob/main/04_model_featselect.ipynb) | 
+| [visualizations](https://github.com/tluccini/predicting_airfare_prices/tree/main/visualizations) | 
+| [data](https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing) (for data access reach out to tonylucci@gmail.com) |
 
 **DATA DICTIONARY**
 | variable| Description |
