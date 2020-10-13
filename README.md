@@ -1,14 +1,9 @@
 # Forecasting Airfare Prices
 **01** [Problem Statement](#01-Problem-Statement)  
-
 **02** [Data Collection and Cleaning](#02-Data-Collection-and-Cleaning)  
-
 **03** [EDA & Pre-Processing / Feature Engineering](#03-EDA-and-Pre-Processing-/-Feature-Engineering)  
-
 **04** [Modeling / Feature Selection](#04-Modeling-/-Feature-Selection)  
-
 **05** [Evaluation and Conceptual Understanding](#05-Evaluation-and-Conceptual-Understanding)  
-
 **06** [Conclusion and Recommendations](#06-Conclusion-and-Recommendations)
 
 ## Project Map
@@ -19,9 +14,9 @@
  - [3 EDA & Pre-processing](https://github.com/tluccini/predicting_airfare_prices/blob/main/03_eda_preprocess.ipynb)
  - [4 Modeling / Feature Selection & Conclusion](https://github.com/tluccini/predicting_airfare_prices/blob/main/04_model_featselect.ipynb)
  - [visualizations](https://github.com/tluccini/predicting_airfare_prices/tree/main/visualizations)
- - [data](https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing) (in order to access data reach out to tonylucci@gmail.com)
+ - [data](https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing) (for data access reach out to tonylucci@gmail.com)
 
-**DATA DICTIONARY
+**DATA DICTIONARY**
 | variable| Description |
 | :--- | :---- |
 | **airfare** | The average flight cost for one individual |
