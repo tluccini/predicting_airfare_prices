@@ -19,8 +19,9 @@
  - [3 EDA & Pre-processing](https://github.com/tluccini/predicting_airfare_prices/blob/main/03_eda_preprocess.ipynb)
  - [4 Modeling / Feature Selection & Conclusion](https://github.com/tluccini/predicting_airfare_prices/blob/main/04_model_featselect.ipynb)
  - [visualizations](https://github.com/tluccini/predicting_airfare_prices/tree/main/visualizations)
- - [data](https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing) -- (data is currently restricted.  Please reach out to tonylucci@gmail.com for permissions.)
+ - [data](https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing) (in order to access data reach out to tonylucci@gmail.com)
 
+**DATA DICTIONARY
 | variable| Description |
 | :--- | :---- |
 | **airfare** | The average flight cost for one individual |
