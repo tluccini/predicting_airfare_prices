@@ -8,7 +8,7 @@
 **06** [Conclusion and Recommendations](#06-Conclusion-and-Recommendations)
 
 | **PROJECT MAP** |
-| - |
+| :- |
 | [README](https://github.com/tluccini/predicting_airfare_prices/blob/main/README.md) | 
 | [Presentation Deck](https://github.com/tluccini/predicting_airfare_prices/blob/main/presentationdeck_predictingairfareprices.pdf) | 
 | [1 Summary](https://github.com/tluccini/predicting_airfare_prices/blob/main/01_summary.ipynb) | 
@@ -19,7 +19,7 @@
 | [data](https://drive.google.com/drive/folders/1UDfDAi82n2gFF2umzAXXmreaTvKMY3lF?usp=sharing) (for data access reach out to tonylucci@gmail.com) |
 
 **DATA DICTIONARY**
-| variable| Description |
+| VARIABLE| DESCRIPTION |
 | :--- | :---- |
 | **airfare** | The average flight cost for one individual |
 | **cost_per_mile** | The average flight cost x total passengers / flight distance |
